@@ -7,7 +7,7 @@
 
 ## Hakkında
 
-### Projede denek olarak 3 ülke seçilmiştir. Bu ülkelerin yaşlı nüfusunun dramatik artışını veri görselleştirme yoluyla sunmak amaçlanmıştır.[^3]
+### Projede denek olarak 3 ülke seçilmiştir. Bu ülkelerin yaşlı nüfusunun dramatik artışını[^3] veri görselleştirme yoluyla sunmak amaçlanmıştır.
 ### Seçilen ülkeler: <br>Letonya, İtalya, Finlandiya'dır.
 ---
 ## Avrupa'da 2008 ve 2018 yıllarında 65 yaş ve üstü nüfusun oranı (toplam nüfusun yüzdesi) 
