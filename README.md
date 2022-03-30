@@ -26,10 +26,7 @@
 
 
 
-
-
-
-[^1]: Ageing Europe, 2019 Edition, https://ec.europa.eu/eurostat/documents/3217494/10166544/KS-02-19%E2%80%91681-EN-N.pdf/c701972f-6b4e-b432-57d2-91898ca94893
-[^2]: D. Clark, 3/24/22, https://www.statista.com/statistics/1105835/share-of-elderly-population-in-europe-by-country/
-[^3]: Giuseppe Carone and Declan Costello (2006), "Can Europe Afford to Grow Old?", International Monetary Fund Finance and Development magazine
-[^4]: Elderly Population, https://data.oecd.org/pop/elderly-population.htm
+[^1]: Elderly Population, https://data.oecd.org/pop/elderly-population.htm 
+[^2]: Giuseppe Carone and Declan Costello (2006), "Can Europe Afford to Grow Old?", International Monetary Fund Finance and Development magazine 
+[^3]: Ageing Europe, 2019 Edition, https://ec.europa.eu/eurostat/documents/3217494/10166544/KS-02-19%E2%80%91681-EN-N.pdf/c701972f-6b4e-b432-57d2-91898ca94893 
+[^4]: D. Clark, 3/24/22, https://www.statista.com/statistics/1105835/share-of-elderly-population-in-europe-by-country/
